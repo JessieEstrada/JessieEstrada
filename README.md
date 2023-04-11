@@ -4,10 +4,10 @@
 
 I am a passionate, driven, and motivated programming enthusiast with skills in: Java, SQL, HTML, CSS, and Javascript. I have always loved computers, and over the years, I have developed a significant interest in Software Development. As such, I am also pursuing a certificate in Computer Programming, along with my Computer Information Systems degree. In my free time, I explore more about this field and experiment with my code.
 
-   <p align="left">
+<!--    <p align="left">
       <a href="https://www.linkedin.com/in/jessie-estrada/">
          <img alt="linkedin" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   </p>
+   </p> -->
 
 ---
 
