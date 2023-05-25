@@ -2,7 +2,7 @@
 
 **`Passionate Software Developer`**
 
-I am a passionate, driven, and motivated programming enthusiast with skills in: Java, SQL, HTML, CSS, and Javascript. I have always loved computers, and over the years, I have developed a significant interest in Software Development. As such, I am also pursuing a certificate in Computer Programming, along with my Computer Information Systems degree. In my free time, I explore more about this field and experiment with my code.
+I am a passionate, driven, and motivated Software Development enthusiast with skills in: Java, SQL, HTML, CSS, and Javascript. I have always loved computers, and over the years, I have developed a significant interest in Software Development. As such, I am also pursuing a certificate in Computer Programming, along with my Computer Information Systems degree. In my free time, I explore more about this field and experiment with my code.
 
 <!--    <p align="left">
       <a href="https://www.linkedin.com/in/jessie-estrada/">
