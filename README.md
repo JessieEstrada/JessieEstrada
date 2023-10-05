@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Jessie Estrada!
+# 👨🏻‍💻 Jessie Estrada
 
 **`Passionate Software Developer`**
 
