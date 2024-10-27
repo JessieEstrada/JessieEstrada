@@ -31,6 +31,5 @@ I am a passionate, driven, and motivated Software Development enthusiast with sk
 <img align="left" alt="aws" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <br/>
 <br/>
-#<details>
  <summary><h3>👨‍💻 Jessie's Coding Journey</h3></summary>
    I started my coding journey as a naive computer information systems student with a passion to learn everything I could about this programming world.
