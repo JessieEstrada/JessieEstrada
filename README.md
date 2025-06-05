@@ -33,4 +33,6 @@ I am a passionate, driven, and motivated Software Development enthusiast with sk
 <br/>
 <details>
  <summary><h3>👨‍💻 Jessie's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer information systems student with a passion to learn everything I could about this programming world.
+Backend Software Engineer with hands-on experience building production-grade APIs, distributed systems, and secure backend services using Java, Spring Boot, SQL, and AWS. I’m a graduate of Netflix’s Advanced Software Engineering Bootcamp and hold a B.S. in Computer Information Systems with a certificate in Computer Programming.
+
+My strengths are building scalable, maintainable backend applications from RESTful APIs and CI/CD pipelines to containerized deployments and cloud hosting. I’ve led and contributed to projects involving JWT authentication, role-based access, and database design across PostgreSQL and MySQL. I’m actively exploring new technologies to build impactful backend solutions and contribute to high-performing engineering teams.
