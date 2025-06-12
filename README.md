@@ -2,7 +2,10 @@
 
 **`Passionate Software Developer`**
 
-I am a passionate, driven, and motivated Software Development enthusiast with skills in: Java, SQL, HTML, CSS, and Javascript. I have always loved computers, and over the years, I have developed a significant interest in Software Development. As such, I am also pursuing a certificate in Computer Programming, along with my Computer Information Systems degree. In my free time, I explore more about this field and experiment with my code.
+Versatile tech professional with hands-on experience in backend software development, technical support, and data analysis.
+Skilled in Java, Python, SQL, Spring Boot, and AWS for building scalable APIs and automating deployments. Experienced in troubleshooting and system support using tools like ServiceNow, Jamf, and Salesforce.
+Strong foundation in systems analysis, database design, and analytics using MySQL, PowerBI, and Tableau.
+Netflix Bootcamp Graduate | B.S. in Computer Information Systems
 
 <!--    <p align="left">
       <a href="https://www.linkedin.com/in/jessie-estrada/">
